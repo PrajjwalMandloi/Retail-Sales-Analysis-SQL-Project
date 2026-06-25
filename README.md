@@ -1,4 +1,4 @@
-![ER_diagram](ER_diagram.png)
+![ER_diagram](screenshots/ER_diagram.png)
 
 # Retail Sales Analysis SQL Project
 
